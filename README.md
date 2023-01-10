@@ -1,7 +1,18 @@
 # Bootcamp Projeto 2
 
-## Sobre o Projeto
+## Bootcamp - Estudo COVID: 
 
-O projeto tem por objetivo é a realização de um estudo sobre o COVID19 por país. Correlacionar os dados de COVID19 do Kaggle (cujo link pode ser obtido [aqui](https://www.kaggle.com/datasets/imdevskp/corona-virus-report?resource=download)).
+##   Sobre o projeto:
 
-Outros datasets podem ser colocados e ao longo do tempo isso vai ser atualizado.
+O principal objetivo deste projeto é realizar uma pesquisa exploratoria com a finalidade de identificar os principais desdobramentos da pandemia de COVID19. Para isso, aplicaremos os conceitos apresentados durante a trilha de Ciência de Dados da BlueEdTech. Além disso, a maior parte dos dados serão obtidos através de fontes próprias, ou seja: consumo de APIs, Kaggle e outras fontes.
+
+Dessa forma, esperamos avaliar o impacto da pandemia e encontrar suas relações com os modelos preditivos desenvolvidos.
+
+#   Etapas
+
+- Exploração dos dados iniciais.
+- Extração de dados adicionais.
+- Tratamento dos dados.
+- Elaboração de modelos baseline (Análise de Sentimento e Série Temporal).
+- Avaliação e ajustes de modelos.
+- Desenvolvimento de um Dashboard interativo.
