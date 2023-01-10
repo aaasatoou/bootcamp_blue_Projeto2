@@ -9,7 +9,7 @@ Project Organization
     ├── LICENSE
     ├── Makefile           <- Makefile with commands like `make data` or `make train`
     ├── README.md          <- The top-level README for developers using this project.
-    ├── data
+    ├── dados
     │   ├── external       <- Data from third party sources.
     │   ├── Silver         <- Intermediate data that has been transformed.
     │   ├── Gold           <- The final, canonical data sets for modeling.
