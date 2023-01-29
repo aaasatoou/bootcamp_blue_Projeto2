@@ -5,24 +5,19 @@
         "URL da noticia": "https://english.elpais.com/economy_and_business/2020-07-31/spains-economy-posts-historic-185-quarterly-fall-due-to-coronavirus-lockdown.html"
     },
     {
-        "Titulo": "The real Covid-19 death toll in Spain: at least 44,868 victims",
-        "Data": "31-07-2020",
-        "URL da noticia": "https://english.elpais.com/society/2020-07-31/the-real-covid-19-death-toll-in-spain-at-least-44868.html"
-    },
-    {
         "Titulo": "Ni pangolín ni civeta: este es el animal que escondía el Sars-CoV-2 desde \nhace medio siglo",
         "Data": "31-07-2020",
         "URL da noticia": "https://www.elespanol.com/ciencia/20200731/pangolin-civeta-animal-escondia-sars-cov-2-medio-siglo/509200054_0.html"
     },
     {
+        "Titulo": "Jet2 brings passengers home from Spain early | News",
+        "Data": "31-07-2020",
+        "URL da noticia": "https://www.breakingtravelnews.com/news/article/jet2-brings-passengers-home-from-spain-early/"
+    },
+    {
         "Titulo": "Spain dives into deep recession, tourism woes bode ill for ...",
         "Data": "31-07-2020",
         "URL da noticia": "https://www.reuters.com/article/us-spain-economy-gdp-idUSKCN24W0WF"
-    },
-    {
-        "Titulo": "Travel updates: Tui cancels more holidays to Spain and its ...",
-        "Data": "31-07-2020",
-        "URL da noticia": "https://www.telegraph.co.uk/news/2020/07/31/travel-updates-portugal-reopens-nightclubs-yet-country-remains/"
     },
     {
         "Titulo": "La caída sin precedentes del 18,5% del PIB en el 2T hunde a España en la \nrecesión",
@@ -35,9 +30,9 @@
         "URL da noticia": "https://www.reuters.com/article/uk-factcheck-spain-idUSKCN24W1XG"
     },
     {
-        "Titulo": "Spain's GDP Shrinks 18.5% in Europe's Worst Contraction Yet",
+        "Titulo": "Apple loyalists prove physical stores not needed to drive ...",
         "Data": "31-07-2020",
-        "URL da noticia": "https://www.bloomberg.com/news/articles/2020-07-31/spain-s-economy-shrinks-18-5-deepest-recorded-in-europe-so-far"
+        "URL da noticia": "https://www.reuters.com/article/us-apple-research-idUSKCN24W208"
     },
     {
         "Titulo": "Ministers from Belfast and Dublin to meet to discuss Covid-19 ...",
@@ -48,5 +43,10 @@
         "Titulo": "Hands, face, space: Boris Johnson unveils new Covid-19 slogan",
         "Data": "31-07-2020",
         "URL da noticia": "https://www.theguardian.com/uk-news/2020/jul/31/hands-face-space-boris-johnson-unveils-new-coronavirus-slogan"
+    },
+    {
+        "Titulo": "Insurance delay casts further shadow over Ottawa family's ...",
+        "Data": "31-07-2020",
+        "URL da noticia": "https://www.cbc.ca/news/canada/ottawa/brian-seaby-family-spain-canada-covid-19-insurance-1.5667610"
     }
 ]
